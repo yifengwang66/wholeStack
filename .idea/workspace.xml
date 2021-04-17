@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="04f01f5c-03a9-44de-ac8c-9ed5aeebcc26" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../MVVM原理/cVue/core/grammer/vbind.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVVM原理/cVue/core/grammer/vfor.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVVM原理/cVue/core/grammer/vmodel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVVM原理/cVue/core/grammer/von.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVVM原理/cVue/core/instance/render.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVVM原理/cVue/core/utils/ObjectUtils.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVVM原理/cVue/core/utils/code.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBlog/frontend/src/vuex/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../react/reactlearn/src/Redux/action/counter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../react/reactlearn/src/Redux/action/loginAction.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../react/reactlearn/src/Redux/action/userAction.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../react/reactlearn/src/Redux/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../react/reactlearn/src/Redux/reducer/LoginUser.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../react/reactlearn/src/Redux/reducer/counter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../react/reactlearn/src/Redux/reducer/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../react/reactlearn/src/Redux/reducer/users.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../react/reactlearn/src/Redux/saga/counterTask.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../react/reactlearn/src/Redux/saga/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../react/reactlearn/src/Redux/saga/studentTask.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../react/reactlearn/src/generator.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../react/reactlearn/src/myRedux/applyMiddleware.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../react/reactlearn/src/myRedux/bindActionCreators.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../react/reactlearn/src/myRedux/combineReducers.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../react/reactlearn/src/myRedux/compose.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../react/reactlearn/src/myRedux/createStore.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../react/reactlearn/src/myRedux/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../react/reactlearn/src/myRedux/utils/ActionTypes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../react/reactlearn/src/myRedux/utils/isPlainObject.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../react/reactlearn/src/testMyRedux/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssr/Vue ssr/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssr/Vue ssr/build/base.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssr/Vue ssr/build/client.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssr/Vue ssr/build/server.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssr/Vue ssr/build/util.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssr/Vue ssr/history/index.ssr.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssr/Vue ssr/history/server.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssr/Vue ssr/history/server/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssr/Vue ssr/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssr/Vue ssr/public/index.ssr.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssr/Vue ssr/src/App.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssr/Vue ssr/src/client.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssr/Vue ssr/src/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssr/Vue ssr/src/server.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssr/Vue ssr/webpack.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vue 单元测试/vue-test-utils-getting-started" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/prettier.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/每日优鲜全栈项目.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2B/.babelrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2B/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2B/.eslintignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2B/.eslintrc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2B/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2B/.postcssrc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2B/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2B/build/build.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2B/build/check-versions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2B/build/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2B/build/utils.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2B/build/vue-loader.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2B/build/webpack.base.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2B/build/webpack.dev.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2B/build/webpack.prod.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2B/config/dev.env.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2B/config/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2B/config/prod.env.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2B/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2B/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2B/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2B/src/App.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2B/src/assets/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2B/src/components/HelloWorld.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2B/src/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2B/src/router/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2B/static/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/defaultavatar.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/dataBase/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/dataBase/models/admin.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/dataBase/models/async.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/dataBase/models/db.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/dataBase/models/item.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/dataBase/models/user.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/dataBase/service/adminService.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/dataBase/service/itemService.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/dataBase/service/userService.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/middlewares/errorMiddleware.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/routes/adminRouter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/routes/apiRouter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/routes/itemRouter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/start.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/utils/getsendResult.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/utils/jwt.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webpack.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../设计模式/test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../设计模式/单例模式.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../开课吧前端/vue课程/mytest/src/components/DetailPage.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../开课吧前端/vue课程/mytest/src/components/PageOne.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../开课吧前端/vue课程/mytest/src/myVue/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../开课吧前端/vue课程/mytest/src/myVueRouter/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../开课吧前端/vue课程/mytest/src/myVuex/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../开课吧前端/vue课程/mytest/src/store/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../开课吧前端/vue课程/mytest/src/test/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../竞智科技实习/dotamind-matchin-web/dotamind-matching-web" beforeDir="false" afterPath="$PROJECT_DIR$/../../竞智科技实习/dotamind-matchin-web/dotamind-matching-web" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../竞智科技实习/dotamind-web-scaffold" beforeDir="false" afterPath="$PROJECT_DIR$/../../竞智科技实习/dotamind-web-scaffold" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsBowerSettings">
+    <node-interpreter value="project" />
+    <bower-package value="" />
+    <bower.json value="" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectId" id="1r5bCheXifwpE2Wk3fUB92rbXtN" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.stylelint" value="true" />
+    <property name="node.js.path.for.package.stylelint" value="project" />
+    <property name="node.js.selected.package.stylelint" value="" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="prettier.files.pattern" value="{**/*,*}.{js,ts,jsx,tsx,html}" />
+    <property name="prettierjs.PrettierConfiguration.Package" value="C:\Users\86131\AppData\Roaming\npm\node_modules\prettier" />
+    <property name="settings.editor.selected.configurable" value="settings.javascript.prettier" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\我的前端\前端全阶班笔记\每日优鲜全栈项目\server\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Node.js.async.js">
+    <configuration name="async.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/server/src/dataBase/models/async.js" working-dir="$PROJECT_DIR$/server/src/dataBase/models">
+      <method v="2" />
+    </configuration>
+    <configuration name="db.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/server/src/dataBase/models/db.js" working-dir="$PROJECT_DIR$/server/src/dataBase/models">
+      <method v="2" />
+    </configuration>
+    <configuration name="dev2B" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="dev2B" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="serve" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="serve" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="server" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/server/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="server" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.server" />
+        <item itemvalue="Node.js.async.js" />
+        <item itemvalue="Node.js.db.js" />
+        <item itemvalue="npm.dev2B" />
+        <item itemvalue="npm.serve" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="04f01f5c-03a9-44de-ac8c-9ed5aeebcc26" name="Default Changelist" comment="" />
+      <created>1618268772163</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1618268772163</updated>
+      <workItem from="1618268773242" duration="8015000" />
+      <workItem from="1618293798422" duration="24514000" />
+      <workItem from="1618444951941" duration="51438000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1515" height="213" key="GridCell.Tab.0.bottom" timestamp="1618648772450">
+      <screen x="0" y="30" width="1536" height="834" />
+    </state>
+    <state width="1515" height="213" key="GridCell.Tab.0.bottom/0.30.1536.834@0.30.1536.834" timestamp="1618648772450" />
+    <state width="1515" height="213" key="GridCell.Tab.0.center" timestamp="1618648772450">
+      <screen x="0" y="30" width="1536" height="834" />
+    </state>
+    <state width="1515" height="213" key="GridCell.Tab.0.center/0.30.1536.834@0.30.1536.834" timestamp="1618648772450" />
+    <state width="1515" height="213" key="GridCell.Tab.0.left" timestamp="1618648772450">
+      <screen x="0" y="30" width="1536" height="834" />
+    </state>
+    <state width="1515" height="213" key="GridCell.Tab.0.left/0.30.1536.834@0.30.1536.834" timestamp="1618648772450" />
+    <state width="1515" height="213" key="GridCell.Tab.0.right" timestamp="1618648772450">
+      <screen x="0" y="30" width="1536" height="834" />
+    </state>
+    <state width="1515" height="213" key="GridCell.Tab.0.right/0.30.1536.834@0.30.1536.834" timestamp="1618648772450" />
+    <state x="270" y="92" key="SettingsEditor" timestamp="1618306153023">
+      <screen x="0" y="30" width="1536" height="834" />
+    </state>
+    <state x="270" y="92" key="SettingsEditor/0.30.1536.834@0.30.1536.834" timestamp="1618306153023" />
+    <state x="431" y="186" width="672" height="678" key="search.everywhere.popup" timestamp="1618629658058">
+      <screen x="0" y="30" width="1536" height="834" />
+    </state>
+    <state x="431" y="186" width="672" height="678" key="search.everywhere.popup/0.30.1536.834@0.30.1536.834" timestamp="1618629658058" />
+  </component>
+</project>
